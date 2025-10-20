@@ -19,7 +19,15 @@ Untuk menjalankan proyek ini secara lokal, ikuti langkah-langkah berikut:
 ```bash
 git clone https://github.com/<username>/DocumentationPractice.git
 
-### Navigasi ke dalam projek
+Navigasi ke dalam projek
 cd Downloads/Codelab1Module3
 
-# Jalankan program Main
+Menambahkan semua file memakai git add .
+
+kemudian masukkan pesan update git commit -m "Update atau apapun"
+
+terakhir Git push origin main
+
+Namun jika memakai intelej kalian bisa tekan file untuk melakukan commit
+
+Kemudian dapat menekan project klik kanan lalu pilih git dan push
