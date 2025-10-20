@@ -7,7 +7,7 @@ Proyek ini dibuat untuk memenuhi tugas **Codelab 2** pada Mata Kuliah *Pemrogram
 ## 🧩 Fitur Utama
 - Menampilkan teks sederhana di konsol menggunakan Java.
 - Menggunakan Git untuk version control.
-- Dilengkapi dengan dokumentasi README dan JavaDoc.
+- Dilengkapi dengan dokumentasi README.
 
 ---
 
