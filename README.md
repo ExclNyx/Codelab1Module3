@@ -15,7 +15,7 @@ Proyek ini dibuat untuk memenuhi tugas **Codelab 2** pada Mata Kuliah *Pemrogram
 
 Untuk menjalankan proyek ini secara lokal, ikuti langkah-langkah berikut:
 
-### 1️⃣ Clone Repository
+### 1️⃣ Step by step  
 ```bash
 git clone https://github.com/<username>/DocumentationPractice.git
 
