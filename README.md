@@ -15,19 +15,6 @@ Proyek ini dibuat untuk memenuhi tugas **Codelab 2** pada Mata Kuliah *Pemrogram
 
 Untuk menjalankan proyek ini secara lokal, ikuti langkah-langkah berikut:
 
-### 1️⃣ Step by step  
+### 1️⃣ Penjelasan 
 ```bash
-git clone https://github.com/<username>/DocumentationPractice.git
-
-Navigasi ke dalam projek
-cd Downloads/Codelab1Module3
-
-Menambahkan semua file memakai git add .
-
-kemudian masukkan pesan update git commit -m "Update atau apapun"
-
-terakhir Git push origin main
-
-Namun jika memakai intelej kalian bisa tekan file untuk melakukan commit
-
-Kemudian dapat menekan project klik kanan lalu pilih git dan push
+Program yang saya buat ini merupakan kalkulator yang dapat dijalankan untuk membantu dalam menghitung apabila saat melakukan tugas  
